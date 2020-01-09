@@ -37,7 +37,6 @@ class BooksSpider(scrapy.Spider):
         tax = product_info(response,'Tax')
         availability = product_info(response,'Availability') 
         number_of_reviews = product_info(response,'Number of reviews')
-        print ("\n\n\n\n "+str(product_type)+"\n\n\n\n\n\n")
 
         yield {
             "title":title,
