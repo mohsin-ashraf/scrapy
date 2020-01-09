@@ -1,0 +1,204 @@
+Problem ID ,Problem Title ,Problem Solved by ,Problem Description 
+1,Multiples of 3 and 5,909306,<GET https://projecteuler.net/problem=1>
+2,Even Fibonacci numbers,724508,<GET https://projecteuler.net/problem=2>
+3,Largest prime factor,517833,<GET https://projecteuler.net/problem=3>
+4,Largest palindrome product,457785,<GET https://projecteuler.net/problem=4>
+5,Smallest multiple,462952,<GET https://projecteuler.net/problem=5>
+6,Sum square difference,465984,<GET https://projecteuler.net/problem=6>
+7,10001st prime,397943,<GET https://projecteuler.net/problem=7>
+8,Largest product in a series,332640,<GET https://projecteuler.net/problem=8>
+9,Special Pythagorean triplet,337755,<GET https://projecteuler.net/problem=9>
+10,Summation of primes,308964,<GET https://projecteuler.net/problem=10>
+11,Largest product in a grid,221165,<GET https://projecteuler.net/problem=11>
+12,Highly divisible triangular number,207893,<GET https://projecteuler.net/problem=12>
+13,Large sum,213436,<GET https://projecteuler.net/problem=13>
+14,Longest Collatz sequence,213551,<GET https://projecteuler.net/problem=14>
+15,Lattice paths,175902,<GET https://projecteuler.net/problem=15>
+16,Power digit sum,215818,<GET https://projecteuler.net/problem=16>
+17,Number letter counts,142349,<GET https://projecteuler.net/problem=17>
+18,Maximum path sum I,136303,<GET https://projecteuler.net/problem=18>
+19,Counting Sundays,126803,<GET https://projecteuler.net/problem=19>
+20,Factorial digit sum,187219,<GET https://projecteuler.net/problem=20>
+21,Amicable numbers,137421,<GET https://projecteuler.net/problem=21>
+22,Names scores,126210,<GET https://projecteuler.net/problem=22>
+23,Non-abundant sums,97302,<GET https://projecteuler.net/problem=23>
+24,Lexicographic permutations,107677,<GET https://projecteuler.net/problem=24>
+25,1000-digit Fibonacci number,146459,<GET https://projecteuler.net/problem=25>
+26,Reciprocal cycles,78360,<GET https://projecteuler.net/problem=26>
+27,Quadratic primes,81616,<GET https://projecteuler.net/problem=27>
+28,Number spiral diagonals,101908,<GET https://projecteuler.net/problem=28>
+29,Distinct powers,98747,<GET https://projecteuler.net/problem=29>
+30,Digit fifth powers,103286,<GET https://projecteuler.net/problem=30>
+31,Coin sums,79369,<GET https://projecteuler.net/problem=31>
+32,Pandigital products,66307,<GET https://projecteuler.net/problem=32>
+33,Digit cancelling fractions,66890,<GET https://projecteuler.net/problem=33>
+34,Digit factorials,88369,<GET https://projecteuler.net/problem=34>
+35,Circular primes,79300,<GET https://projecteuler.net/problem=35>
+36,Double-base palindromes,83365,<GET https://projecteuler.net/problem=36>
+37,Truncatable primes,68695,<GET https://projecteuler.net/problem=37>
+38,Pandigital multiples,58646,<GET https://projecteuler.net/problem=38>
+39,Integer right triangles,68232,<GET https://projecteuler.net/problem=39>
+40,Champernowne's constant,74962,<GET https://projecteuler.net/problem=40>
+41,Pandigital prime,63399,<GET https://projecteuler.net/problem=41>
+42,Coded triangle numbers,69617,<GET https://projecteuler.net/problem=42>
+43,Sub-string divisibility,55456,<GET https://projecteuler.net/problem=43>
+44,Pentagon numbers,54203,<GET https://projecteuler.net/problem=44>
+45,"Triangular, pentagonal, and hexagonal",66480,<GET https://projecteuler.net/problem=45>
+46,Goldbach's other conjecture,57189,<GET https://projecteuler.net/problem=46>
+47,Distinct primes factors,53869,<GET https://projecteuler.net/problem=47>
+48,Self powers,106119,<GET https://projecteuler.net/problem=48>
+49,Prime permutations,53791,<GET https://projecteuler.net/problem=49>
+50,Consecutive prime sum,58082,<GET https://projecteuler.net/problem=50>
+Problem ID ,Problem Title ,Problem Solved by ,Problem Description 
+1,Multiples of 3 and 5,909306,<GET https://projecteuler.net/problem=1>
+2,Even Fibonacci numbers,724508,<GET https://projecteuler.net/problem=2>
+3,Largest prime factor,517833,<GET https://projecteuler.net/problem=3>
+4,Largest palindrome product,457785,<GET https://projecteuler.net/problem=4>
+5,Smallest multiple,462952,<GET https://projecteuler.net/problem=5>
+6,Sum square difference,465984,<GET https://projecteuler.net/problem=6>
+7,10001st prime,397943,<GET https://projecteuler.net/problem=7>
+8,Largest product in a series,332640,<GET https://projecteuler.net/problem=8>
+9,Special Pythagorean triplet,337755,<GET https://projecteuler.net/problem=9>
+10,Summation of primes,308964,<GET https://projecteuler.net/problem=10>
+11,Largest product in a grid,221165,<GET https://projecteuler.net/problem=11>
+12,Highly divisible triangular number,207893,<GET https://projecteuler.net/problem=12>
+13,Large sum,213436,<GET https://projecteuler.net/problem=13>
+14,Longest Collatz sequence,213551,<GET https://projecteuler.net/problem=14>
+15,Lattice paths,175902,<GET https://projecteuler.net/problem=15>
+16,Power digit sum,215818,<GET https://projecteuler.net/problem=16>
+17,Number letter counts,142349,<GET https://projecteuler.net/problem=17>
+18,Maximum path sum I,136303,<GET https://projecteuler.net/problem=18>
+19,Counting Sundays,126803,<GET https://projecteuler.net/problem=19>
+20,Factorial digit sum,187219,<GET https://projecteuler.net/problem=20>
+21,Amicable numbers,137421,<GET https://projecteuler.net/problem=21>
+22,Names scores,126210,<GET https://projecteuler.net/problem=22>
+23,Non-abundant sums,97302,<GET https://projecteuler.net/problem=23>
+24,Lexicographic permutations,107677,<GET https://projecteuler.net/problem=24>
+25,1000-digit Fibonacci number,146459,<GET https://projecteuler.net/problem=25>
+26,Reciprocal cycles,78360,<GET https://projecteuler.net/problem=26>
+27,Quadratic primes,81616,<GET https://projecteuler.net/problem=27>
+28,Number spiral diagonals,101908,<GET https://projecteuler.net/problem=28>
+29,Distinct powers,98747,<GET https://projecteuler.net/problem=29>
+30,Digit fifth powers,103286,<GET https://projecteuler.net/problem=30>
+31,Coin sums,79369,<GET https://projecteuler.net/problem=31>
+32,Pandigital products,66307,<GET https://projecteuler.net/problem=32>
+33,Digit cancelling fractions,66890,<GET https://projecteuler.net/problem=33>
+34,Digit factorials,88369,<GET https://projecteuler.net/problem=34>
+35,Circular primes,79300,<GET https://projecteuler.net/problem=35>
+36,Double-base palindromes,83365,<GET https://projecteuler.net/problem=36>
+37,Truncatable primes,68695,<GET https://projecteuler.net/problem=37>
+38,Pandigital multiples,58646,<GET https://projecteuler.net/problem=38>
+39,Integer right triangles,68232,<GET https://projecteuler.net/problem=39>
+40,Champernowne's constant,74962,<GET https://projecteuler.net/problem=40>
+41,Pandigital prime,63399,<GET https://projecteuler.net/problem=41>
+42,Coded triangle numbers,69617,<GET https://projecteuler.net/problem=42>
+43,Sub-string divisibility,55456,<GET https://projecteuler.net/problem=43>
+44,Pentagon numbers,54203,<GET https://projecteuler.net/problem=44>
+45,"Triangular, pentagonal, and hexagonal",66480,<GET https://projecteuler.net/problem=45>
+46,Goldbach's other conjecture,57189,<GET https://projecteuler.net/problem=46>
+47,Distinct primes factors,53869,<GET https://projecteuler.net/problem=47>
+48,Self powers,106119,<GET https://projecteuler.net/problem=48>
+49,Prime permutations,53791,<GET https://projecteuler.net/problem=49>
+50,Consecutive prime sum,58082,<GET https://projecteuler.net/problem=50>
+Problem ID ,Problem Title ,Problem Solved by 
+1,Multiples of 3 and 5,909317
+2,Even Fibonacci numbers,724513
+3,Largest prime factor,517837
+4,Largest palindrome product,457789
+5,Smallest multiple,462958
+6,Sum square difference,465995
+7,10001st prime,397950
+8,Largest product in a series,332641
+9,Special Pythagorean triplet,337759
+10,Summation of primes,308974
+11,Largest product in a grid,221168
+12,Highly divisible triangular number,207896
+13,Large sum,213439
+14,Longest Collatz sequence,213554
+15,Lattice paths,175906
+16,Power digit sum,215819
+17,Number letter counts,142352
+18,Maximum path sum I,136303
+19,Counting Sundays,126806
+20,Factorial digit sum,187221
+21,Amicable numbers,137421
+22,Names scores,126210
+23,Non-abundant sums,97303
+24,Lexicographic permutations,107678
+25,1000-digit Fibonacci number,146461
+26,Reciprocal cycles,78360
+27,Quadratic primes,81616
+28,Number spiral diagonals,101908
+29,Distinct powers,98747
+30,Digit fifth powers,103289
+31,Coin sums,79370
+32,Pandigital products,66308
+33,Digit cancelling fractions,66890
+34,Digit factorials,88369
+35,Circular primes,79300
+36,Double-base palindromes,83366
+37,Truncatable primes,68695
+38,Pandigital multiples,58646
+39,Integer right triangles,68233
+40,Champernowne's constant,74962
+41,Pandigital prime,63399
+42,Coded triangle numbers,69617
+43,Sub-string divisibility,55456
+44,Pentagon numbers,54203
+45,"Triangular, pentagonal, and hexagonal",66481
+46,Goldbach's other conjecture,57190
+47,Distinct primes factors,53870
+48,Self powers,106121
+49,Prime permutations,53791
+50,Consecutive prime sum,58082
+Problem ID ,Problem Title ,Problem Solved by 
+1,Multiples of 3 and 5,909318
+2,Even Fibonacci numbers,724514
+3,Largest prime factor,517837
+4,Largest palindrome product,457790
+5,Smallest multiple,462961
+6,Sum square difference,465997
+7,10001st prime,397951
+8,Largest product in a series,332643
+9,Special Pythagorean triplet,337760
+10,Summation of primes,308974
+11,Largest product in a grid,221168
+12,Highly divisible triangular number,207896
+13,Large sum,213439
+14,Longest Collatz sequence,213554
+15,Lattice paths,175907
+16,Power digit sum,215819
+17,Number letter counts,142352
+18,Maximum path sum I,136303
+19,Counting Sundays,126806
+20,Factorial digit sum,187222
+21,Amicable numbers,137421
+22,Names scores,126211
+23,Non-abundant sums,97304
+24,Lexicographic permutations,107678
+25,1000-digit Fibonacci number,146462
+26,Reciprocal cycles,78360
+27,Quadratic primes,81616
+28,Number spiral diagonals,101908
+29,Distinct powers,98747
+30,Digit fifth powers,103289
+31,Coin sums,79371
+32,Pandigital products,66308
+33,Digit cancelling fractions,66890
+34,Digit factorials,88370
+35,Circular primes,79301
+36,Double-base palindromes,83366
+37,Truncatable primes,68695
+38,Pandigital multiples,58646
+39,Integer right triangles,68235
+40,Champernowne's constant,74962
+41,Pandigital prime,63399
+42,Coded triangle numbers,69617
+43,Sub-string divisibility,55456
+44,Pentagon numbers,54203
+45,"Triangular, pentagonal, and hexagonal",66483
+46,Goldbach's other conjecture,57190
+47,Distinct primes factors,53870
+48,Self powers,106121
+49,Prime permutations,53791
+50,Consecutive prime sum,58082
